@@ -13,4 +13,5 @@ void setup(){
 void loop(){
   my_string2.concat(String("Block A"));
   my_list.add(255);
+  my_string2.concat(String("Block A"));
 }
