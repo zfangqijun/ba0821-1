@@ -1,5 +1,8 @@
-void loop(){
+void setup(){
+  for(int i = 0; i < 10; i++){
+    pinMode(0, INPUT);
+  }
 }
 
-void setup(){
+for(int i = 0; i < 10; i++){
 }
