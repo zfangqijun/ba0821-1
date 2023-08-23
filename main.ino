@@ -1,9 +1,17 @@
+String b;
 String a;
 
 
 void setup(){
-  pinMode(0, INPUT);
   pinMode(0, OUTPUT);
   pinMode(0, INPUT_PULLUP);
-  a.concat(a.substring(0, 2));
+  for(int i = 0; i < 10; i++){
+    for(int i = 0; i < 10; i++){
+      for(int i = 0; i < 10; i++){
+        for(int i = 0; i < 10; i++){
+        }
+      }
+    }
+  }
+  b.concat(a.substring(0, 2));
 }
